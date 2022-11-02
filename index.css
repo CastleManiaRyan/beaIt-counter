@@ -4,7 +4,8 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
     font-weight: bold;
     text-align: center;
-    color: white
+    height: 100vh;
+    color: white;
     
 }
 beatIt {
