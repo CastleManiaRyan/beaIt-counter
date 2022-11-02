@@ -1,7 +1,7 @@
 body {
     background-image: url("games.png");
     background-size: cover;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
     text-align: center;
     height: 100vh;
@@ -10,7 +10,7 @@ body {
 }
 beatIt {
     max-width: 500px;
-    max-height: 500px
+    max-height: 500px;
 }
 
 h1 {
